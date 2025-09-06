@@ -1,0 +1,22 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.rsuser
+*.cache
+*.log
+*.dbmdl
+*.sln.docstates
+
+# Editor lain (opsional)
+.idea/
+.vscode/
+
+# Paket & publish
+packages/
+*.nupkg
+*.snupkg
+**/publish/
