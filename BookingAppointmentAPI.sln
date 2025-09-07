@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "take-home-assessment-api", "take-home-assessment-api\take-home-assessment-api.csproj", "{926A0AAF-9598-4F8A-8CE2-D3B1D6AFA719}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingAppointmentAPI", "take-home-assessment-api\BookingAppointmentAPI.csproj", "{926A0AAF-9598-4F8A-8CE2-D3B1D6AFA719}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{D8B38CC8-904C-4B00-B1ED-06DA4A4E4B46}"
 EndProject

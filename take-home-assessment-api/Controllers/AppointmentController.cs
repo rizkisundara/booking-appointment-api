@@ -8,7 +8,7 @@ using Entities.Request;
 using WriterServices;
 using Microsoft.Extensions.Logging;
 
-namespace take_home_assessment_api.Controllers
+namespace BookingAppointmentAPI.Controllers
 {
     [ApiController]
     [Route("api/appointment")]

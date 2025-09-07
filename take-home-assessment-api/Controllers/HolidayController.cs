@@ -7,7 +7,7 @@ using Entities.Response;
 using ReaderServices;
 using WriterServices;
 
-namespace take_home_assessment_api.Controllers
+namespace BookingAppointmentAPI.Controllers
 {
     [ApiController]
     [Route("api/holiday")]
