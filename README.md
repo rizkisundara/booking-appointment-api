@@ -38,3 +38,17 @@ A backend API system for managing customer appointments and token issuance. Buil
 
 ### 4. Restore NuGet Packages
 - dotnet restore
+
+## 🏃‍♂️ Running the Application
+- Development Mode
+  
+```cmd
+dotnet run
+```
+The application will run at https://localhost:7000 or http://localhost:5000.
+
+- Accessing API Documentation
+Once the application is running, open your browser and navigate to:
+
+Swagger UI: https://localhost:7000/swagger
+or http://localhost:5000/swagger 
